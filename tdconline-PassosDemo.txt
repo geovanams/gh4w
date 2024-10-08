@@ -1,0 +1,38 @@
+->extensão
+-lang translation
+
+->Validators.ts
+ -Validar um input de data string e converta a um objeto de data 
+ -Validate phone number
+
+->tests
+import { describe } from 'mocha';
+import { expect } from 'chai';
+import { validateAlbum } from '../src/validators';
+
+->CI Pipeline
+#Workflow to build and push a image to ACR
+
+->IAC
+Terraform
+
+->Generate Commit Comment
+
+->Documentation
+Album.cs
+validators
+
+------
+CHAT
+
+Criar calculadora
+
+explain
+
+/Slashes
+
+-Security
+
+-Translation Cobol
+
+-agents
